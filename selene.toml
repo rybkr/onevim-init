@@ -1,4 +1,0 @@
-std = "lua54"
-
-[config]
-empty_if = { comments_count = true }
